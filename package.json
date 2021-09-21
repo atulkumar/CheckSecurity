@@ -43,7 +43,7 @@
     "ng2-scroll-to-el": "^1.2.1",
     "ngx-order-pipe": "^2.0.1",
     "ngx-scrollbar": "^2.1.0",
-    "npm": "^6.4.1",
+    "npm": "^7.21.0",
     "popper.js": "^1.12.6",
     "rxjs": "^6.2.1",
     "rxjs-compat": "^6.2.1",
