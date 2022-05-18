@@ -12,7 +12,7 @@
   },
   "private": true,
   "dependencies": {
-    "@angular-devkit/build-angular": "^0.10.5",
+    "@angular-devkit/build-angular": "^13.0.0",
     "@angular/animations": "6.0.0",
     "@angular/cdk": "6.0.0",
     "@angular/cli": "6.2.5",
@@ -43,7 +43,7 @@
     "ng2-scroll-to-el": "^1.2.1",
     "ngx-order-pipe": "^2.0.1",
     "ngx-scrollbar": "^2.1.0",
-    "npm": "^6.4.1",
+    "npm": "^7.21.0",
     "popper.js": "^1.12.6",
     "rxjs": "^6.2.1",
     "rxjs-compat": "^6.2.1",
